@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
 > Quando estamos desesperados ou nervosos, nossa mente não funciona como de costume. É natural.  
-> A adrenalina sobe, o coração acelera, e de repente tudo fica confuso. Você sabe que precisa agir, mas… pra quem ligar? O
+> A adrenalina sobe, o coração acelera, e de repente tudo fica confuso. Você sabe que precisa agir, mas… pra quem ligar?
 
 > É aí que o HelpIA entra:  
 > Um assistente preparado para agir com calma, clareza e rapidez quando você mais precisa.  
