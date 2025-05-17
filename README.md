@@ -3,12 +3,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
 > Quando estamos desesperados ou nervosos, nossa mente não funciona como de costume. É natural.  
-> A adrenalina sobe, o coração acelera, e de repente tudo fica confuso. Você sabe que precisa agir, mas… pra quem ligar? O que fazer primeiro? Será que é grave? Como explicar onde você está?  
-> Muitas vezes, nesses momentos, não lembramos nem o número da emergência. Outras vezes, estamos sozinhos, sem ninguém por perto para ajudar ou até mesmo sem saber em que bairro estamos.  
+> A adrenalina sobe, o coração acelera, e de repente tudo fica confuso. Você sabe que precisa agir, mas… pra quem ligar? O
 
 > É aí que o HelpIA entra:  
 > Um assistente preparado para agir com calma, clareza e rapidez quando você mais precisa.  
-> Ele te orienta passo a passo, sugere quem chamar, mostra onde ir e até avisa alguém da sua confiança.  
 > Porque em emergências, o que mais precisamos é de clareza e ajuda confiável — e agora, você tem isso ao alcance da mão.
 
 ---
