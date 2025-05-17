@@ -13,7 +13,6 @@
 
 ### ✨ Funcionalidades
 
-- 🔍 Localização de serviços próximos  
 - 📞 Telefones úteis atualizados  
 - ⛑️ Primeiros socorros em linguagem simples  
 
